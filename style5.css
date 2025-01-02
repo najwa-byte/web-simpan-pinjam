@@ -1,0 +1,31 @@
+p {
+  font-size: 14px;
+  font-weight: 500;
+  color: #ffeba7;
+}
+
+p a {
+  color: #ffeba7;
+  text-decoration: none;
+}
+
+p a:hover {
+  color: #e5e4ec;
+  text-decoration: underline;
+}
+
+.btn {
+  background-color: #507fdb;
+  color: #ffffff;
+  padding: 10px 25px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: all 0.3s ease-in-out;
+}
+
+.btn:hover {
+  background-color: #436dc2;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
